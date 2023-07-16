@@ -1,4 +1,4 @@
-package com.kliachenko.dictionaryapp.feature_dictionary
+package com.kliachenko.dictionaryapp.feature_dictionary.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
